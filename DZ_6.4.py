@@ -180,6 +180,8 @@ print(Student.list_stud_all)
 print(student1.grades)
 
 
+"добавлем код" 
+"правим"
 
 
 
